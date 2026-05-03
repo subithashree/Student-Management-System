@@ -25,3 +25,12 @@ A simple **Java Swing + MySQL** based desktop application to manage student reco
 ---
 
 ## 📂 Project Structure
+Student-Management-System/
+│
+├── Login.java
+├── Dashboard.java
+├── StudentForm.java
+├── AttendanceForm.java
+├── ViewStudents.java
+├── ViewAuditLog.java
+├── DBConnection.java
